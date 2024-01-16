@@ -38,11 +38,11 @@ p {
 
 @keyframes slideUp {
   0% {
-    transform: translateY(100vh) rotate(180deg);
+    transform: translateY(100vh);
     letter-spacing: 75px;
   }
   100% {
-    transform: translateY(0) rotate(0);
+    transform: translateY(0);
     letter-spacing: 0;
   }
 }

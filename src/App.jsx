@@ -9,6 +9,7 @@ function App() {
       <div className="w-screen h-screen flex flex-col justify-center items-center  z-20 relative ">
         <p className="text-9xl name text-gold ">Issac</p>
         <p className="text-9xl name text-gold ">Lin</p>
+        <p className="text-4xl text-gold"> Now this is Epic</p>
       </div>
 
       <div className="w-screen h-screen bg-mountainrange bg-cover bg-center absolute z-10 top-0 bg-fixed"></div>
