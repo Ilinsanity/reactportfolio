@@ -6,6 +6,10 @@ module.exports = {
       backgroundImage: {
         antdark: "url('/src/images/ant-darkened2.jpg')",
         mountainrange: "url('/src/images/mount.JPG')",
+        mountainwosky: "url('/src/images/mountwosky.png')",
+      },
+      colors: {
+        gold: "#FFD700",
       },
     },
   },
